@@ -1,0 +1,12 @@
+.nav-link:hover {
+  background-color: #343a40; /* Darker background on hover */
+  color: #ffffff; /* Ensure text remains white on hover */
+  border-radius: 5px; /* Optional: rounded corners for a nicer look */
+  padding: 0.5rem 1rem; /* Optional: add some padding for better spacing */
+  transition: background-color 0.3s, color 0.3s; /* Smooth transition effect */
+}
+#cart{
+  
+    margin-right: 60px;/* Smooth transition effect */
+    margin-bottom: 10px;
+}

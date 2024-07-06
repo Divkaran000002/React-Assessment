@@ -1,0 +1,31 @@
+.box{
+   display: flex;
+   flex-wrap: wrap; 
+   
+}
+.nestedBox{
+    margin-left: 100px ;
+box-shadow: 3.7px 7.4px 7.4px hsl(0deg 0% 0% / 0.39);
+
+}
+.para{
+    justify-content: flex-start;
+    font-size: 20px;
+    font-weight: 700;;
+}
+.btn{
+    color: antiquewhite;
+    background-color: black
+}
+.Cpara{
+    font-size: 20px;;
+    font-weight: 600;
+    color:rgba(10, 204, 0, 0.965)
+}
+.inner{
+    margin-left: 20px;
+}
+.Image{
+    margin-left:60px ;
+    margin-top: 70px;
+}
